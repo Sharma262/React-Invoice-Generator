@@ -18,26 +18,37 @@ Perfect for freelancers, startups, and small business owners.
 https://invoice-generator-react.netlify.app/
 
 ### Screenshots
-<img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+
+<img src="https://raw.githubusercontent.com/Sharma262/React-Invoice-Generator/master/public/assets/images/Screenshot1.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Sharma262/React-Invoice-Generator/master/public/assets/images/Screenshot2.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Sharma262/React-Invoice-Generator/master/public/assets/images/Screenshot3.png" style="max-width: 100px; width: 100%; height: auto;">
 
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/Sharma262/React-Invoice-Generator.git
 
 npm install
 
 npm start / npm run build
 ```
 
-### To-Do
-- [x] Finish parsing data into Preview Modal
+## 🚀 Features
 
-- [x] Currency Picker
+- 📅 Current Date & Due Date picker
+- 🧑‍💼 Bill To / Bill From fields
+- 🧾 Add/Edit/Delete invoice items
+- 🔢 Quantity & price calculation
+- 💰 Currency support (USD default)
+- 📉 Discount & Tax input
+- 🖨️ Export invoice as PDF
+- 💡 Clean and responsive user interface
 
-- [x] Calculate Tax and Discounts
+## 🙋‍♂️ Author
 
-- [ ] Store invoices in Firebase DB
+**Rakesh Sharma**  
+MERN & Web3 Enthusiast
 
+- 🌐 [Portfolio Website](https://rakeshsharma.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh262)
+- ✍️ [Sketching (Pinterest)](https://in.pinterest.com/rksrakesh2602/)
