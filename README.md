@@ -19,14 +19,14 @@ https://invoice-generator-react.netlify.app/
 
 ### Screenshots
 
-<img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Sharma262/React-Invoice-Generator/master/public/assets/images/Screenshot1.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Sharma262/React-Invoice-Generator/master/public/assets/images/Screenshot2.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Sharma262/React-Invoice-Generator/master/public/assets/images/Screenshot3.png" style="max-width: 100px; width: 100%; height: auto;">
 
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/Sharma262/React-Invoice-Generator.git
 
 npm install
 
