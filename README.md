@@ -32,12 +32,22 @@ npm install
 npm start / npm run build
 ```
 
-### To-Do
-- [x] Finish parsing data into Preview Modal
+## 🚀 Features
 
-- [x] Currency Picker
+- 📅 Current Date & Due Date picker
+- 🧑‍💼 Bill To / Bill From fields
+- 🧾 Add/Edit/Delete invoice items
+- 🔢 Quantity & price calculation
+- 💰 Currency support (USD default)
+- 📉 Discount & Tax input
+- 🖨️ Export invoice as PDF
+- 💡 Clean and responsive user interface
 
-- [x] Calculate Tax and Discounts
+## 🙋‍♂️ Author
 
-- [ ] Store invoices in Firebase DB
+**Rakesh Sharma**  
+MERN & Web3 Enthusiast
 
+- 🌐 [Portfolio Website](https://rakeshsharma.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh262)
+- ✍️ [Sketching (Pinterest)](https://in.pinterest.com/rksrakesh2602/)
