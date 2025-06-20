@@ -45,7 +45,6 @@ npm start / npm run build
 - 💡 Clean and responsive user interface
 
 ## 🙋‍♂️ Author
-
 **Rakesh Sharma**  
 MERN & Web3 Enthusiast
 
